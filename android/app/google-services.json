@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115091766936",
+    "project_id": "fir-app-d53b5",
+    "storage_bucket": "fir-app-d53b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115091766936:android:6be6c8e4d1f0ba74735aed",
+        "android_client_info": {
+          "package_name": "com.example.flutter_iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSKK5NeFLKnsiwud0b388RWVSLRG2kxFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
